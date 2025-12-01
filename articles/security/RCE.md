@@ -1,6 +1,6 @@
 ---
 title: "RCE (Remote Code Execution): Краткое руководство"
-description: Базовая информация о RCE и где практиковаться
+description: Базовая информация о RCE
 date: 2025-11-10
 category: Уязвимости
 author: veilosophy
